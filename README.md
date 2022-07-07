@@ -1,5 +1,8 @@
-### Hi there 👋
+Olá! Me chamo Gabriel Roza, estou cursando Técnico em Eletrônica na Fundação Escola Técnica Liberato Salzano Vieira da Cunha, onde estudo desde a forma mais tradicional da eletrônica, como analógica, sistemas de comunicação e processamento de sinais até assuntos como eletrônica digital, sistemas microprocessados e programação, matérias em que dou monitoria para outros alunos do curso!
 
+Minhas principais linguagens são C e C++, além de JavaScript em Node para fazer pequenos Scripts e facilitar minha vida, porém já tive contato e estudei outras linguagens como Python, C# e Java.
+
+Como monitor das matérias de Digital, Micros e Programação, prezo muito pela organização de código, além de códigos facilmente legíveis, com bons nomes para variáveis, bom encapsulamento e sem repetição de código! Neste repositório irei postar alguns exercícios, trabalhos e projetos pessoais que construo dentro da Fundação Liberato, espero que gostem. :)
 <!--
 **Roza918/Roza918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
